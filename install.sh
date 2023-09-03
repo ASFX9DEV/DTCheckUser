@@ -1,5 +1,5 @@
-url='https://github.com/DTunnel0/DTCheckUser.git'
-checkuser='https://github.com/DTunnel0/DTCheckUser/raw/master/executable/checkuser'
+url='https://github.com/asfx9dev/DTCheckUser.git'
+checkuser='https://github.com/asfx9dev/DTCheckUser/raw/master/executable/checkuser'
 depends=('git' 'python3' 'pip3')
 
 cd ~
